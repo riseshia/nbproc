@@ -1,3 +1,5 @@
+> Ruby 4.0 introduce Ractor.shareable_proc, so we don't need this anymore!
+
 # nbproc
 
 Expose ruby internal C API which create proc with **n**o **b**inding.
